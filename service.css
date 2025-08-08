@@ -134,13 +134,13 @@
             margin: 0 auto 4rem;
         }
 
-        .benefits-grid {
+        /*.benefits-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             gap: 3rem;
             max-width: 1200px;
             margin: 0 auto;
-        }
+        }*/
 
         .benefit-card {
             background: white;
@@ -243,3 +243,4 @@
         font-size: 1.3rem;
     }
 }
+
